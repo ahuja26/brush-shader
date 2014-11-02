@@ -1,0 +1,76 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-7980
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1199 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1262 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1199 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1262 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1199 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1262 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1199 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (44): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1262 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1203 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (45): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1266 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1207 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (45): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1270 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1207 outsize=236 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (46): incorrect number of arguments to numeric-type constructor
+  api=4 type=0 insize=1270 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1211 outsize=236 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1274 outsize=2119 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1274 outsize=754 kw= ok=1
+Cmd: preprocess
+  insize=1211 outsize=236 ok=1
+Cmd: preprocess
+  insize=1215 outsize=240 ok=1
+Cmd: preprocess
+  insize=3793 outsize=253 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3839 outsize=1550 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3839 outsize=7059 kw= ok=1
+Cmd: preprocess
+  insize=3779 outsize=253 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3825 outsize=1550 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3825 outsize=7059 kw= ok=1
+Cmd: preprocess
+  insize=3769 outsize=252 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3815 outsize=1550 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3815 outsize=7059 kw= ok=1
+Cmd: preprocess
+  insize=1218 outsize=243 ok=1
+Cmd: preprocess
+  insize=4278 outsize=444 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4135 outsize=1550 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4135 outsize=7059 kw= ok=1
+Cmd: preprocess
+  insize=1218 outsize=243 ok=1
